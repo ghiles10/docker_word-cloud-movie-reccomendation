@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # word cloud movie reccomendation 
 ## Presentation
 
@@ -20,5 +18,4 @@ A database has been created using data scraped from the Allo Ciné website. It i
 
 
 docker compose -f "docker-compose.yml" up --build
->>>>>>> master
 
